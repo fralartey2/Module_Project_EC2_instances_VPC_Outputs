@@ -33,8 +33,8 @@ resource "aws_security_group" "sg" {
 
   tags = {
     Name       = "module-project-sg"
-    env        = "Utrains_Best_IT_school"
+    env        = "dev"
     team       = "Group10"
-    created-by = "Gaetan"
+    created-by = "Frank"
   }
 }

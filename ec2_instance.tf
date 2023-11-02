@@ -13,6 +13,6 @@ resource "aws_instance" "server" {
     Name       = "Module-Terraform-EC2-instance"
     Env        = "Utrains_Best_IT_School"
     team       = "Group10"
-    created-by = "Gaetan"
+    created-by = "Frank"
   }
 }

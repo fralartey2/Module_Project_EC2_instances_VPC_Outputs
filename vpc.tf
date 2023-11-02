@@ -16,8 +16,8 @@ module "vpc" {
 
   tags = {
     Name       = "module_project_vpc"
-    env        = "Utrains_Best_IT_School"
+    env        = "dev"
     team       = "Group10"
-    created-by = "Gaetan"
+    created-by = "Frank"
   }
 }
