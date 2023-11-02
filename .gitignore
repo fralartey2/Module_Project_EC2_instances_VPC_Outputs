@@ -1,0 +1,9 @@
+.gitignore
+terraform.tfstate
+terraform apply Run.jpg
+terraform init Run.jpg
+terraform plan Run.jpg
+terraform.tfstate.backup
+Verification Test Run on AWS account.jpg
+Waring after TF Destroy MODULE project.jpg
+Z-ssh connnection Run.jpg
