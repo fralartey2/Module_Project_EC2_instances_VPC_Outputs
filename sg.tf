@@ -35,6 +35,6 @@ resource "aws_security_group" "sg" {
     Name       = "module-project-sg"
     env        = "dev"
     team       = "Group10"
-    created-by = "Frank"
+    created-by = "frank"
   }
 }

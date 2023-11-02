@@ -18,6 +18,6 @@ module "vpc" {
     Name       = "module_project_vpc"
     env        = "dev"
     team       = "Group10"
-    created-by = "Frank"
+    created-by = "frank"
   }
 }
